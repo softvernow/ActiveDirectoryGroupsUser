@@ -1,0 +1,10 @@
+C:\Users\efortes\source\repos\ActiveDirectoryGroupsUser\ActiveDirectoryGroupsUser\bin\Debug\ActiveDirectoryGroupsUser.exe.config
+C:\Users\efortes\source\repos\ActiveDirectoryGroupsUser\ActiveDirectoryGroupsUser\bin\Debug\ActiveDirectoryGroupsUser.exe
+C:\Users\efortes\source\repos\ActiveDirectoryGroupsUser\ActiveDirectoryGroupsUser\bin\Debug\ActiveDirectoryGroupsUser.pdb
+C:\Users\efortes\source\repos\ActiveDirectoryGroupsUser\ActiveDirectoryGroupsUser\obj\Debug\ActiveDirectoryGroupsUser.csprojResolveAssemblyReference.cache
+C:\Users\efortes\source\repos\ActiveDirectoryGroupsUser\ActiveDirectoryGroupsUser\obj\Debug\ActiveDirectoryGroupsUser.Form1.resources
+C:\Users\efortes\source\repos\ActiveDirectoryGroupsUser\ActiveDirectoryGroupsUser\obj\Debug\ActiveDirectoryGroupsUser.Properties.Resources.resources
+C:\Users\efortes\source\repos\ActiveDirectoryGroupsUser\ActiveDirectoryGroupsUser\obj\Debug\ActiveDirectoryGroupsUser.csproj.GenerateResource.Cache
+C:\Users\efortes\source\repos\ActiveDirectoryGroupsUser\ActiveDirectoryGroupsUser\obj\Debug\ActiveDirectoryGroupsUser.csproj.CoreCompileInputs.cache
+C:\Users\efortes\source\repos\ActiveDirectoryGroupsUser\ActiveDirectoryGroupsUser\obj\Debug\ActiveDirectoryGroupsUser.exe
+C:\Users\efortes\source\repos\ActiveDirectoryGroupsUser\ActiveDirectoryGroupsUser\obj\Debug\ActiveDirectoryGroupsUser.pdb
